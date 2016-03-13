@@ -1,0 +1,10 @@
+Line 13: Class ComctlLib.TabStrip of control TabStripPrint was not a loaded control class.
+Line 47: Class ComctlLib.TabStrip of control TabStripServer was not a loaded control class.
+Line 19: The property name _ExtentX in TabStripPrint is invalid.
+Line 20: The property name _ExtentY in TabStripPrint is invalid.
+Line 21: The property name _Version in TabStripPrint is invalid.
+Line 45: The property name Tabs in TabStripPrint is invalid.
+Line 53: The property name _ExtentX in TabStripServer is invalid.
+Line 54: The property name _ExtentY in TabStripServer is invalid.
+Line 55: The property name _Version in TabStripServer is invalid.
+Line 64: The property name Tabs in TabStripServer is invalid.
